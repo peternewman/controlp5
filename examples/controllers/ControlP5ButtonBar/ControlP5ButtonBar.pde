@@ -35,7 +35,7 @@ void setup() {
 }
 
 void bar(int n) {
-  println("bar clicked, item-value:", n);
+  println("bar clicked, item-value:" + n);
 }
 
 void draw() {
